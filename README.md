@@ -1,2 +1,2 @@
-# PrepCourse-Henry-1
+# PrepCourse
 Repositorio de prueba 
